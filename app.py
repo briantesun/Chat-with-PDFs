@@ -63,7 +63,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Yonder :books")
+    st.header("Chat with PDFs :books")
     user_question = st.text_input("Conversationally Query Multiple Sources")
     if user_question:
         handle_userinput(user_question)
