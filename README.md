@@ -1,8 +1,6 @@
-# Yonder
-
 ## Conversational Query Across Multiple Sources 
 
-Yonder allows you to process and query multiple documents conversationally.
+Process and query multiple documents conversationally.
 You can upload a collection of PDFs and ask the application questions related to the content of the documents. 
 Yonder will process and analyze the text content and respond to your questions based on the retrieved information.
 
